@@ -9,4 +9,5 @@ Utiliser des notebooks pour créer des tables de dimension et de faits, des aggr
 
 GOLD
 Rapport AUto-create est un rapport conçu automatiquement en se basant sur le modèle sémantique.
-Profit Report qui contient le rapport Power BI pour analyser les données.
+
+Profit Reporting qui contient le rapport Power BI pour analyser les données.
