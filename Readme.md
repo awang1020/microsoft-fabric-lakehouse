@@ -1,5 +1,6 @@
 Ce repo contient tous les éléments d'un projet 
-BRONZE 
+
+BRONZE  
 ETL : dataflows, data pipeline pour intégrer des données dans un lakehouse
 Stockage : Lakehouse
 
