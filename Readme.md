@@ -1,4 +1,4 @@
-Ce repo contient tous les éléments d'un projet 
+Ce repo contient tous les éléments d'un projet d'intégration de données (fichier excel, sur azure blob container), de préparation et de traitement puis de visualisation de données.
 
 BRONZE  
 ETL : dataflows, data pipeline pour intégrer des données dans un lakehouse
