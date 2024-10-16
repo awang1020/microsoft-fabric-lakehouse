@@ -1,10 +1,12 @@
 Ce repo contient tous les éléments d'un projet d'intégration de données (fichier excel, sur azure blob container), de préparation et de traitement puis de visualisation de données.
 
 BRONZE  
+
 ETL : dataflows, data pipeline pour intégrer des données dans un lakehouse
 Stockage : Lakehouse
 
 SILVER
+
 Utiliser des notebooks pour créer des tables de dimension et de faits, des aggrégations
 
 GOLD
